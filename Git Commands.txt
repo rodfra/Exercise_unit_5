@@ -1,0 +1,20 @@
+The commands that I have used to make the Git actions for the step 5 are: 
+	-I have choosen the file "the hare and the turtle" to modificate
+	-I have opened the file with "notepad the hare and the turtle.txt"
+	-I have added the coments in it
+	-I have wroten the command "git add ." 
+	-I have checked the status with "git status"
+	-I have wroten again "git commit" with the correct step title
+	-I have finished with "git push" before checking all the actions in my repository
+
+	
+For the exercise 6 I have taken my first file.cs with C# to use it.
+	-I have created the file with "notepad 1.Primer Saludo.txt" 
+	-I have added the code in it
+	-And I have used the same commands than before
+	-"git add ." 
+	-"git status"
+	-"git commit" 
+	-"git push" 
+
+My URL is: https://github.com/rodfra/Exercise_unit_5.git
